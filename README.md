@@ -1,5 +1,5 @@
 # Exploratory and Explanatory Data Analysis: Prosper Loan Dataset
-## by Hammed Jimoh
+## by Ridwan Omotosho
 
 
 ## Dataset
